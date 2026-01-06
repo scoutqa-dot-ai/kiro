@@ -26,7 +26,7 @@ npm install -g @scoutqa/cli@latest
 
 ### Prerequisites
 
-- Node.js 16+
+- Node.js 22+
 - Active internet connection for remote testing infrastructure
 - ScoutQA account (sign up at https://scoutqa.ai)
 
