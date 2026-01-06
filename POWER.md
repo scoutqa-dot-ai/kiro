@@ -376,7 +376,6 @@ scoutqa send-message --execution-id <id> --prompt "Additional instructions"
 
 - Official Documentation: https://github.com/scoutqa-dot-ai/claude-code
 - ScoutQA Website: https://scoutqa.ai
-- CLI Repository: https://github.com/scoutqa-dot-ai/cli
 
 ---
 
